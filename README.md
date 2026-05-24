@@ -2,7 +2,7 @@
 
 **Press the button below to open the notebook. This is a master notebook template created by the TrainDoc AI team. Please read the instructions below.**
 
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1psEkOFthNKYiGDFVUQfa-ZYKXYTHsxaV#scrollTo=cInm7LBWVR7M)
 
 ---
 
